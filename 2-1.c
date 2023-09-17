@@ -1,3 +1,7 @@
+/*
+此电梯基于对于证实电梯的模拟
+严格遵守先上后下的原则
+*/
 #include <stdio.h>
 #include <stdlib.h>
 int n,st,flr[30],go[30],t[30],num[30],tim,ctup,ctdn,mu,m[30],ct,temp,mi;
